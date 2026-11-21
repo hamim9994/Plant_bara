@@ -1,0 +1,36 @@
+{
+  "seed": 42,
+  "dataset": "PlantVillage (color)",
+  "data_dir": "/kaggle/input/datasets/abdallahalidev/plantvillage-dataset/color",
+  "split": {
+    "train": 0.8,
+    "val": 0.2
+  },
+  "img_size": [
+    224,
+    224
+  ],
+  "batch_size": 32,
+  "epochs_head": 10,
+  "epochs_fine": 10,
+  "lr_head": 0.001,
+  "lr_fine": 1e-05,
+  "optimizer": "Adam",
+  "loss": "categorical_crossentropy",
+  "augmentation": [
+    "rotation_range=20",
+    "width_shift_range=0.1",
+    "height_shift_range=0.1",
+    "shear_range=0.1",
+    "zoom_range=0.1",
+    "horizontal_flip=True"
+  ],
+  "preprocess": "mobilenet_v2.preprocess_input",
+  "base_model": "MobileNetV2 (imagenet, include_top=False)",
+  "unfrozen_layers_phase2": 55,
+  "callbacks": [
+    "EarlyStopping(patience=3)",
+    "ModelCheckpoint",
+    "ReduceLROnPlateau(factor=0.2, patience=2)"
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "Apple___Apple_scab": {
+    "display_name": "Apple — Apple scab",
+    "crop": "Apple",
+    "disease": "Apple_scab",
+    "is_healthy": false,
+    "symptoms": "Olive-green to black velvety spots on leaves and fruit; leaves may yellow, curl, and drop early, and fruit can crack.",
+    "treatment": "Remove and destroy fallen leaves and infected fruit. Apply a fungicide per local label during wet spring weather; ask an extension service about timing.",
+    "prevention": "Plant scab-resistant varieties and prune to improve airflow and drying."
+  },
+  "Apple___Black_rot": {
+    "display_name": "Apple — Black rot",
+    "crop": "Apple",
+    "disease": "Black_rot",
+    "is_healthy": false,
+    "symptoms": "Dark sunken rot on fruit, often starting at the blossom end, with concentric rings of tiny black dots; leaves may brown and blight.",
+    "treatment": "Prune out infected branches and remove mummified fruit, disinfecting tools between cuts. Use a labeled fungicide only if local advice recommends it.",
+    "prevention": "Clean up overwintering fruit and cankers, and choose resistant varieties where available."
+  },
+  "Apple___Cedar_apple_rust": {
+    "display_name": "Apple — Cedar apple rust",
+    "crop": "Apple",
+    "disease": "Cedar_apple_rust",
+    "is_healthy": false,
+    "symptoms": "Orange-yellow spots with red borders on leaves and horn-like orange growths underneath; fruit may show yellow spots and distortion.",
+    "treatment": "Remove nearby juniper or cedar hosts if practical and prune infected twigs. Apply a labeled fungicide at bud break as advised locally.",
+    "prevention": "Plant resistant apple varieties and avoid planting close to juniper or cedar."
+  },
+  "Apple___healthy": {
+    "display_name": "Apple — healthy",
+    "crop": "Apple",
+    "disease": "healthy",
+    "is_healthy": true,
+    "symptoms": "Leaves are green, intact, and free of spots, mold, or distortion, and fruit develops normally.",
+    "treatment": "No treatment is needed; continue normal watering, feeding, and pruning.",
+    "prevention": "Prune annually for airflow and clear fallen leaves to keep the tree healthy."
+  },
+  "Blueberry___healthy": {
+    "display_name": "Blueberry — healthy",
+    "crop": "Blueberry",
+    "disease": "healthy",
+    "is_healthy": true,
+    "symptoms": "Foliage is uniformly green with no spotting, curling, or mold, and berries develop normally.",
+    "treatment": "No treatment is needed; maintain normal watering and feeding.",
+    "prevention": "Keep soil acidic and well-drained, and water at the base to avoid wet foliage."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "display_name": "Cherry (including sour) — Powdery mildew",
+    "crop": "Cherry_(including_sour)",
+    "disease": "Powdery_mildew",
+    "is_healthy": false,
+    "symptoms": "White to gray powdery coating on leaves, shoots, and fruit; leaves may curl and distort.",
+    "treatment": "Prune out heavily infected shoots and improve airflow. Apply a labeled fungicide per local guidance if needed.",
+    "prevention": "Plant resistant varieties and avoid overhead watering to keep foliage dry."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "display_name": "Cherry (including sour) — healthy",
+    "crop": "Cherry_(including_sour)",
+    "disease": "healthy",
+    "is_healthy": true,
+    "symptoms": "Leaves are clean green with no powdery growth, spots, or curling, and fruit looks normal.",
+    "treatment": "No treatment is needed; continue normal care.",
+    "prevention": "Prune for airflow and monitor trees weekly during the growing season."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "display_name": "Corn (maize) — Cercospora leaf spot Gray leaf spot",
+    "crop": "Corn_(maize)",
+    "disease": "Cercospora_leaf_spot Gray_leaf_spot",
+    "is_healthy": false,
+    "symptoms": "Long narrow gray-brown lesions between leaf veins that can merge and kill whole leaves.",
+    "treatment": "Rotate out of corn and destroy crop residue after harvest. Use a labeled fungicide only if local advisors recommend it.",
+    "prevention": "Plant resistant hybrids, rotate crops, and manage residue to reduce spores."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "display_name": "Corn (maize) — Common rust ",
+    "crop": "Corn_(maize)",
+    "disease": "Common_rust_",
+    "is_healthy": false,
+    "symptoms": "Small reddish-brown pustules on leaves that rupture to a powdery rust color, usually in warm humid weather.",
+    "treatment": "In small plantings, remove badly affected leaves; field fungicide is rarely needed. Follow local advice.",
+    "prevention": "Grow resistant hybrids and plant early to avoid peak rust pressure."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "display_name": "Corn (maize) — Northern Leaf Blight",
+    "crop": "Corn_(maize)",
+    "disease": "Northern_Leaf_Blight",
+    "is_healthy": false,
+    "symptoms": "Long gray-green to tan lesions running along leaves that can merge and blight foliage.",
+    "treatment": "Rotate crops and bury or remove residue after harvest. Apply a labeled fungicide where local conditions warrant it.",
+    "prevention": "Use resistant hybrids and rotate corn with non-host crops."
+  },
+  "Corn_(maize)___healthy": {
+    "display_name": "Corn (maize) — healthy",
+    "crop": "Corn_(maize)",
+    "disease": "healthy",
+    "is_healthy": true,
+    "symptoms": "Leaves are green and upright without lesions, rust, or blighting, and ears develop normally.",
+    "treatment": "No treatment is needed; continue normal care.",
+    "prevention": "Rotate crops and plant resistant hybrids to keep plants vigorous."
+  },
+  "Grape___Black_rot": {
+    "display_name": "Grape — Black rot",
+    "crop": "Grape",
+    "disease": "Black_rot",
+    "is_healthy": false,
+    "symptoms": "Brown circular leaf spots with dark borders and tiny black dots, plus dark shriveled rotting fruit.",
+    "treatment": "Remove infected leaves and fruit and clean up fallen debris. Apply a labeled fungicide per local extension advice.",
+    "prevention": "Prune for airflow, destroy overwintering debris, and plant resistant varieties."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "display_name": "Grape — Esca (Black Measles)",
+    "crop": "Grape",
+    "disease": "Esca_(Black_Measles)",
+    "is_healthy": false,
+    "symptoms": "Yellowing leaves with dark speckling and tiger-stripe patterns, and black spots or internal discoloration in berries.",
+    "treatment": "There is no cure; remove and destroy badly affected vines. Prune out infected wood and sterilize tools between vines.",
+    "prevention": "Avoid wounding vines, prune in dry weather, and use clean tools."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "display_name": "Grape — Leaf blight (Isariopsis Leaf Spot)",
+    "crop": "Grape",
+    "disease": "Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "is_healthy": false,
+    "symptoms": "Angular brown to dark leaf spots, often with a pale halo, that can merge and cause leaf drop.",
+    "treatment": "Remove infected leaves and improve canopy airflow. Apply a labeled fungicide if local advisors recommend it.",
+    "prevention": "Prune canopies for air movement and avoid overhead irrigation."
+  },
+  "Grape___healthy": {
+    "display_name": "Grape — healthy",
+    "crop": "Grape",
+    "disease": "healthy",
+    "is_healthy": true,
+    "symptoms": "Leaves are green and free of spots, yellowing, or mold, and clusters develop normally.",
+    "treatment": "No treatment is needed; continue normal care.",
+    "prevention": "Prune for airflow and monitor vines regularly through the season."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "display_name": "Orange — Haunglongbing (Citrus greening)",
+    "crop": "Orange",
+    "disease": "Haunglongbing_(Citrus_greening)",
+    "is_healthy": false,
+    "symptoms": "Yellow mottled leaves with uneven blotching, small misshapen fruit, and twig dieback.",
+    "treatment": "There is no cure; remove infected trees to limit spread and contact local authorities about testing.",
+    "prevention": "Plant certified disease-free stock and control the psyllid vector per local guidance."
+  },
+  "Peach___Bacterial_spot": {
+    "display_name": "Peach — Bacterial spot",
+    "crop": "Peach",
+    "disease": "Bacterial_spot",
+    "is_healthy": false,
+    "symptoms": "Small water-soaked spots on leaves and fruit that turn dark and may pit or crack, sometimes with yellow halos.",
+    "treatment": "Remove infected leaves and fruit where practical. Apply a labeled bactericide per local extension advice.",
+    "prevention": "Use resistant varieties and avoid overhead watering to keep foliage dry."
+  },
+  "Peach___healthy": {
+    "display_name": "Peach — healthy",
+    "crop": "Peach",
+    "disease": "healthy",
+    "is_healthy": true,
+    "symptoms": "Leaves are green and unspotted with normal fruit set and no cracking or pitting.",
+    "treatment": "No treatment is needed; continue normal care.",
+    "prevention": "Prune for airflow and monitor weekly for early signs of disease."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "display_name": "Pepper, bell — Bacterial spot",
+    "crop": "Pepper,_bell",
+    "disease": "Bacterial_spot",
+    "is_healthy": false,
+    "symptoms": "Small dark water-soaked spots on leaves and fruit that become raised and scabby and may crack.",
+    "treatment": "Remove infected plants and avoid handling wet foliage. Apply a labeled bactericide per local extension advice.",
+    "prevention": "Use certified disease-free seed, rotate crops, and avoid overhead irrigation."
+  },
+  "Pepper,_bell___healthy": {
+    "display_name": "Pepper, bell — healthy",
+    "crop": "Pepper,_bell",
+    "disease": "healthy",
+    "is_healthy": true,
+    "symptoms": "Leaves are green and turgid with no spots or lesions, and peppers form normally.",
+    "treatment": "No treatment is needed; continue normal care.",
+    "prevention": "Water at the soil level and rotate crops each season."
+  },
+  "Potato___Early_blight": {
+    "display_name": "Potato — Early blight",
+    "crop": "Potato",
+    "disease": "Early_blight",
+    "is_healthy": false,
+    "symptoms": "Dark brown spots with concentric rings on older leaves, with yellowing and leaf death as lesions spread.",
+    "treatment": "Remove infected leaves and destroy plant debris after harvest. Apply a labeled fungicide per local advice.",
+    "prevention": "Rotate crops, use certified seed, and water at the base to keep foliage dry."
+  },
+  "Potato___Late_blight": {
+    "display_name": "Potato — Late blight",
+    "crop": "Potato",
+    "disease": "Late_blight",
+    "is_healthy": false,
+    "symptoms": "Water-soaked dark patches on leaves and stems with a white mold rim in humid weather, and brown rot on tubers.",
+    "treatment": "Remove and destroy infected plants promptly and avoid handling wet foliage. Apply a labeled fungicide per local extension guidance.",
+    "prevention": "Plant certified disease-free seed, avoid overhead watering, and destroy cull piles."
+  },
+  "Potato___healthy": {
+    "display_name": "Potato — healthy",
+    "crop": "Potato",
+    "disease": "healthy",
+    "is_healthy": true,
+    "symptoms": "Foliage is green and vigorous without lesions or mold, and tubers develop normally.",
+    "treatment": "No treatment is needed; continue normal care.",
+    "prevention": "Use certified seed, rotate crops, and hill soil to protect tubers."
+  },
+  "Raspberry___healthy": {
+    "display_name": "Raspberry — healthy",
+    "crop": "Raspberry",
+    "disease": "healthy",
+    "is_healthy": true,
+    "symptoms": "Canes and leaves look green and healthy with no spots, wilting, or mold, and fruit sets normally.",
+    "treatment": "No treatment is needed; continue normal care.",
+    "prevention": "Prune out spent canes and space plants for good airflow."
+  },
+  "Soybean___healthy": {
+    "display_name": "Soybean — healthy",
+    "crop": "Soybean",
+    "disease": "healthy",
+    "is_healthy": true,
+    "symptoms": "Leaves are green and free of lesions or yellowing, and pods fill normally.",
+    "treatment": "No treatment is needed; continue normal care.",
+    "prevention": "Rotate crops and use disease-free seed to maintain plant health."
+  },
+  "Squash___Powdery_mildew": {
+    "display_name": "Squash — Powdery mildew",
+    "crop": "Squash",
+    "disease": "Powdery_mildew",
+    "is_healthy": false,
+    "symptoms": "White powdery patches on leaves and stems that spread and can cause yellowing and leaf drop.",
+    "treatment": "Remove heavily infected leaves and improve airflow. Apply a labeled fungicide per local advice if needed.",
+    "prevention": "Plant resistant varieties, space plants well, and water at the base."
+  },
+  "Strawberry___Leaf_scorch": {
+    "display_name": "Strawberry — Leaf scorch",
+    "crop": "Strawberry",
+    "disease": "Leaf_scorch",
+    "is_healthy": false,
+    "symptoms": "Small purple-red spots that enlarge into dry brown patches with purple borders, usually on older leaves.",
+    "treatment": "Remove affected leaves and destroy debris after harvest. Apply a labeled fungicide if local advisors recommend it.",
+    "prevention": "Use resistant varieties, rotate plantings, and avoid overhead watering."
+  },
+  "Strawberry___healthy": {
+    "display_name": "Strawberry — healthy",
+    "crop": "Strawberry",
+    "disease": "healthy",
+    "is_healthy": true,
+    "symptoms": "Leaves are green and unspotted with no browning, and fruit develops normally.",
+    "treatment": "No treatment is needed; continue normal care.",
+    "prevention": "Remove old foliage and keep beds well-drained and weed-free."
+  },
+  "Tomato___Bacterial_spot": {
+    "display_name": "Tomato — Bacterial spot",
+    "crop": "Tomato",
+    "disease": "Bacterial_spot",
+    "is_healthy": false,
+    "symptoms": "Small dark water-soaked spots on leaves and fruit that become scabby and may crack, sometimes with yellow halos.",
+    "treatment": "Remove infected leaves and fruit and avoid working with wet plants. Apply a labeled bactericide per local extension advice.",
+    "prevention": "Use certified disease-free seed, rotate crops, and avoid overhead watering."
+  },
+  "Tomato___Early_blight": {
+    "display_name": "Tomato — Early blight",
+    "crop": "Tomato",
+    "disease": "Early_blight",
+    "is_healthy": false,
+    "symptoms": "Brown spots with concentric rings on lower leaves, which yellow and drop as the disease moves upward.",
+    "treatment": "Remove infected leaves and destroy debris. Apply a labeled fungicide per local guidance when spots appear.",
+    "prevention": "Rotate crops, stake plants for airflow, and water at the soil level."
+  },
+  "Tomato___Late_blight": {
+    "display_name": "Tomato — Late blight",
+    "crop": "Tomato",
+    "disease": "Late_blight",
+    "is_healthy": false,
+    "symptoms": "Dark water-soaked patches on leaves and stems with white mold in humid weather, and firm brown rot on fruit.",
+    "treatment": "Remove and destroy infected plants immediately and avoid wet foliage. Apply a labeled fungicide per local extension advice.",
+    "prevention": "Use resistant varieties, avoid overhead watering, and destroy volunteer plants and culls."
+  },
+  "Tomato___Leaf_Mold": {
+    "display_name": "Tomato — Leaf Mold",
+    "crop": "Tomato",
+    "disease": "Leaf_Mold",
+    "is_healthy": false,
+    "symptoms": "Yellow spots on upper leaves with olive-green velvety mold underneath, often in humid greenhouses.",
+    "treatment": "Remove infected leaves and improve ventilation and airflow. Apply a labeled fungicide per local advice.",
+    "prevention": "Reduce humidity, space plants, and avoid wetting foliage."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "display_name": "Tomato — Septoria leaf spot",
+    "crop": "Tomato",
+    "disease": "Septoria_leaf_spot",
+    "is_healthy": false,
+    "symptoms": "Many small round gray-brown spots with dark borders and tiny black dots, causing leaves to yellow and drop.",
+    "treatment": "Remove spotted leaves and destroy debris after harvest. Apply a labeled fungicide per local advice if needed.",
+    "prevention": "Rotate crops for at least two years and avoid overhead watering."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "display_name": "Tomato — Spider mites Two-spotted spider mite",
+    "crop": "Tomato",
+    "disease": "Spider_mites Two-spotted_spider_mite",
+    "is_healthy": false,
+    "symptoms": "Fine yellow stippling on leaves with tiny webbing; leaves may turn bronze and dry out.",
+    "treatment": "Wash mites off with a strong water spray or apply a labeled miticide per local advice. Remove badly infested leaves.",
+    "prevention": "Keep plants well-watered and avoid dusty hot dry conditions that favor mites."
+  },
+  "Tomato___Target_Spot": {
+    "display_name": "Tomato — Target Spot",
+    "crop": "Tomato",
+    "disease": "Target_Spot",
+    "is_healthy": false,
+    "symptoms": "Dark circular spots with concentric rings on leaves, stems, and fruit that can merge and cause leaf drop.",
+    "treatment": "Remove infected leaves and improve airflow. Apply a labeled fungicide per local extension guidance.",
+    "prevention": "Rotate crops, avoid overhead watering, and plant resistant varieties where available."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "display_name": "Tomato — Tomato Yellow Leaf Curl Virus",
+    "crop": "Tomato",
+    "disease": "Tomato_Yellow_Leaf_Curl_Virus",
+    "is_healthy": false,
+    "symptoms": "Leaves curl upward, become small and yellow, and plants are stunted with poor fruit set.",
+    "treatment": "There is no cure; remove infected plants to limit spread and control whiteflies per local advice.",
+    "prevention": "Plant resistant varieties and use whitefly nets or labeled controls to limit the vector."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "display_name": "Tomato — Tomato mosaic virus",
+    "crop": "Tomato",
+    "disease": "Tomato_mosaic_virus",
+    "is_healthy": false,
+    "symptoms": "Mottled light and dark green leaves with puckering and distortion, plus stunted misshapen fruit.",
+    "treatment": "There is no cure; remove and destroy infected plants and disinfect tools and hands.",
+    "prevention": "Use certified seed, control aphids, and avoid handling plants when wet."
+  },
+  "Tomato___healthy": {
+    "display_name": "Tomato — healthy",
+    "crop": "Tomato",
+    "disease": "healthy",
+    "is_healthy": true,
+    "symptoms": "Leaves are green, expanded, and free of spots, curling, or mold, and fruit develops normally.",
+    "treatment": "No treatment is needed; continue normal watering, feeding, and pruning.",
+    "prevention": "Rotate crops and monitor plants weekly for early pest or disease signs."
+  }
+}

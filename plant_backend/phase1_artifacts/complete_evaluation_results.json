@@ -1,0 +1,28 @@
+{
+    "model": "MobileNetV2",
+    "dataset": "PlantVillage Color",
+    "evaluation_split": "Validation (20%)",
+    "evaluation_samples": 10849,
+    "number_of_classes": 38,
+    "overall_metrics": {
+        "Accuracy": 0.9749285648446862,
+        "Macro Precision": 0.9690841288627814,
+        "Macro Recall": 0.9657810090450877,
+        "Macro F1 Score": 0.9666694919155717,
+        "Weighted Precision": 0.9763033823115401,
+        "Weighted Recall": 0.9749285648446862,
+        "Weighted F1 Score": 0.9749477207764853,
+        "Micro F1 Score": 0.9749285648446862,
+        "Balanced Accuracy": 0.9657810090450877,
+        "Matthews Correlation Coefficient": 0.9737398785059332,
+        "Cohen Kappa": 0.9737009027387618,
+        "Macro ROC-AUC (OvR)": 0.9998001089721031
+    },
+    "random_prediction": {
+        "image": "080a25a5-9b62-4fa7-b7fe-44fef2750e0c___FREC_Pwd.M 4673.JPG",
+        "actual": "Cherry_(including_sour)___Powdery_mildew",
+        "predicted": "Cherry_(including_sour)___Powdery_mildew",
+        "confidence": 0.9999982118606567,
+        "correct": true
+    }
+}

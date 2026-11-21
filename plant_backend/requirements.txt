@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+tensorflow==2.21.0
+# 0.7.0's Windows DLL is blocked by Application Control on some corporate machines.
+ml_dtypes==0.5.4
+pillow
+numpy
+python-multipart
+pytest
+httpx
