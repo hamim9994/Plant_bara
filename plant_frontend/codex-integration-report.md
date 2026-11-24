@@ -1,0 +1,3 @@
+Integration is complete. `npm run typecheck` and `npm run build` pass, and all four SPA routes returned HTTP 200 with the root element.
+
+The live API checks could not complete: outbound connections to `plant-bara.onrender.com` failed with curl error 7 and HTTP 000, including the multipart prediction attempt. I documented the outputs and remaining risk in [codex-integration-report.md](/D:/Hamim/project/Plant_bara/plant_frontend/codex-integration-report.md).
